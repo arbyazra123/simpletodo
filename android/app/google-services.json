@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349760360562",
+    "firebase_url": "https://simpletodo-aec7e.firebaseio.com",
+    "project_id": "simpletodo-aec7e",
+    "storage_bucket": "simpletodo-aec7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349760360562:android:9951f99113b02e0a11f2eb",
+        "android_client_info": {
+          "package_name": "com.arbyazra.simple_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349760360562-fbhac0ud37ik8ajuss0obl9c9b7q7v5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arbyazra.simple_todo",
+            "certificate_hash": "280c6579b1cf688dbe30960a2851477ad053406c"
+          }
+        },
+        {
+          "client_id": "349760360562-0qpog4qsn905cqed5rorl262suuh0pfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1_GOX_usxoRvbxwf4NSe5PyRn4e34DwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349760360562-0qpog4qsn905cqed5rorl262suuh0pfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
